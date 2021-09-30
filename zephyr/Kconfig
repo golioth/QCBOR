@@ -1,0 +1,5 @@
+config QCBOR
+	bool "QCBOR library"
+	help
+	  Enable QCBOR library, which is a powerful, commercial-quality CBOR
+	  encoder/decoder.
